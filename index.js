@@ -13,4 +13,5 @@ function johnLennonFacts(facts) {
     facts[i] = facts[i].concat("!!!")
     i++
   }
+  return facts
 }
